@@ -1,6 +1,6 @@
 # Omega2 Weather LCD
 By Sergio Monedero
-Released on April 24th 2015
+Released on July 1st 2018
 http://thingsandcode.com
 ***
 
